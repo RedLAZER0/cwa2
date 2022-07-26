@@ -1,0 +1,26 @@
+h1{
+font-family: 'Times New Roman', Times, serif;
+font-weight: bolder;
+font-style: oblique;    
+}
+
+h4{
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-weight: bolder;    
+color: red;
+}
+
+#camera{
+width: 500px;
+height: 400px;    
+}
+
+img{
+border-radius: 20;
+border-style: dotted;    
+}
+
+body{
+ background-color: gray;   
+}
